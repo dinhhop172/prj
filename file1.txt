@@ -1,2 +1,2 @@
-dang lam login
+quang
 dang lam register
