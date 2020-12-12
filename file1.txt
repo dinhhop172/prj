@@ -1,1 +1,2 @@
 dang lam login
+dang lam register
